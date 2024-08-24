@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
               height: 100,
               width: 100,
               color: Colors.blueAccent,
-              child: const Center(child: Text('container 1')),
+              child: const Center(child: Text('container 2')),
             ),
             const SizedBox(
               height: 15,
